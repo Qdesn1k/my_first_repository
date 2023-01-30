@@ -1,2 +1,2 @@
 print('Hello GitHub')
-changes = 'Changes'
+c = 'Change'
